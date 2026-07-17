@@ -50,6 +50,9 @@ nav li a{
     background-repeat: no-repeat;
     height: 786px;
 }
+.italic{
+    font-style: italic;
+}
 .button{
     display: flex;
     position: absolute;
